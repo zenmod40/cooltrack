@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cooltrack</name>
+    <displayName><![CDATA[CoolTrack]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Suivi e-commerce pour Matomo : pages vues, vues produit et catégorie, paniers et commandes, vers votre Matomo auto-hébergé.]]></description>
+    <author><![CDATA[ZM40]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
