@@ -14,4 +14,4 @@ Première publication open source.
 - **Paniers** : le contenu du panier est envoyé sur la page panier et dans le tunnel de commande, ce qui alimente les paniers abandonnés de Matomo.
 - **Commandes** à la confirmation : produits, total, sous-total, taxes, frais de port et remises. Les commandes d'un panier multi-transporteurs sont cumulées.
 - **Identifiant de commande brouillé** : Matomo dédoublonne les rechargements de la page de confirmation sans pouvoir relier une visite à une commande de la boutique.
-- Composant commun ZM40 : notification de mise à jour, autres modules ZM40, opt-out réseau.
+- Composant commun ZM40 : notification de mise à jour, autres modules ZM40, opt-out réseau, charte pour une cybersécurité responsable.
